@@ -60,10 +60,12 @@ export const info = {
     bio: "Hello! I'm Alyssa. I'm an eager software developer with IT experience in civilian and government sector.",
     skills:
         {
-            proficientWith: ['Javascript', 'Nodejs','Python','React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Windows 7', 'Troubleshooting',
-            'PC and POS Software/Hardware support', 'Cisco CLI',"Configuring Cisco Routers and Switches", "Ethernet Cable repair and construction"
+            proficientWith: ['Javascript', 'Nodejs','Python','React', 'Git', 'Github', 'Bootstrap', 'HTML5', 'CSS3', 'Django', 'Postgres', 'Nextjs', 'MongoDB',  'JSON', 'EJS', 'Cisco CLI',
         ],
-            exposedTo: ['Django', 'Postgres', 'Nextjs', 'MongoDB',  'JSON', 'EJS']
+            exposedTo: [
+                "Team Player","Analytical and problem-solving skills","Communication and collaboration skills","Attention to detail"
+
+            ]
         },
 
     hobbies: [
@@ -94,10 +96,10 @@ export const info = {
             image: "https://i.imgur.com/IEMDQAs.png"
         },
         {
-            title: "Quick Tarot",
-            live: "https://quicktarot.herokuapp.com/",
-            source: "https://github.com/AlyssaWendt",
-            image: "https://i.imgur.com/BEqj6z2.png"
+            title: "Take Care Teddy",
+            live: "https://alyssawendt.github.io/Take-Care-Teddy/",
+            source: "https://github.com/AlyssaWendt/Take-Care-Teddy",
+            image: "https://i.imgur.com/d80PP2G.png"
         },
         {
             title: "TravelHub",
