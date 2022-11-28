@@ -103,8 +103,8 @@ export const info = {
         },
         {
             title: "TravelHub",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://travelhub3.herokuapp.com/login",
+            source: "https://github.com/maclamour/Project-2-TravelHub",
             image: "https://i.imgur.com/5abYlR5.png"
         }
     ]
