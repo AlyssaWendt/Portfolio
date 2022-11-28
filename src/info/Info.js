@@ -92,7 +92,7 @@ export const info = {
         {
             title: "ZodiacSMS",
             live: "https://zodiacsms.netlify.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/AlyssaWendt", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/AlyssaWendt/ZodiacSMS", // this should be a link to the **repository** of the project, where the code is hosted.
             image: "https://i.imgur.com/IEMDQAs.png"
         },
         {
